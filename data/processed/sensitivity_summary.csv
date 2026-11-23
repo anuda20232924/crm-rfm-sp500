@@ -1,0 +1,11 @@
+measure,value
+Correlation R and F,-0.3463439224191752
+Correlation R and log1p(M),0.1523940758764672
+Correlation F and log1p(M),0.01278205564714898
+Variance on first principal component (%),45.79357461305493
+Share of R variance explained by Ward RFM clusters,0.642349534337024
+Share of F variance explained by Ward RFM clusters,0.11874131773198167
+Share of log1p(M) variance explained by Ward RFM clusters,0.5161967231786045
+"Adjusted Rand index, Ward RFM vs Ward R and F only",0.2911507117637305
+"Median traded value, highest / lowest cluster, full RFM",3.5509838998211096
+"Median traded value, highest / lowest cluster, R and F only",1.4030955585464335

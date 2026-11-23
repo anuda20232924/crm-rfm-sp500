@@ -1,0 +1,18 @@
+solution,cluster,n_shares,largest_sector,its_share_%,most_over_represented,times_overall_share
+Ward - risk and return,1,92,Information Technology,31.5,Information Technology,2.07
+Ward - risk and return,2,66,Consumer Staples,33.3,Consumer Staples,5.06
+Ward - risk and return,3,98,Financials,28.6,Energy,3.97
+Ward - risk and return,4,48,Information Technology,47.9,Information Technology,3.15
+Ward - risk and return,5,182,Industrials,22.0,Real Estate,2.05
+K-Means - risk and return,1,112,Health Care,22.3,Health Care,1.87
+K-Means - risk and return,2,166,Financials,22.3,Energy,2.49
+K-Means - risk and return,3,131,Utilities,19.8,Utilities,3.22
+K-Means - risk and return,4,27,Information Technology,37.0,Information Technology,2.43
+K-Means - risk and return,5,50,Information Technology,54.0,Information Technology,3.55
+Ward - RFM,1,82,Information Technology,22.0,Materials,2.06
+Ward - RFM,2,154,Information Technology,20.1,Energy,1.58
+Ward - RFM,3,250,Industrials,20.4,Real Estate,1.75
+K-Means - RFM,1,122,Industrials,19.7,Real Estate,1.59
+K-Means - RFM,2,61,Information Technology,21.3,Utilities,2.39
+K-Means - RFM,3,212,Industrials,20.3,Energy,1.6
+K-Means - RFM,4,91,Information Technology,27.5,Communication Services,2.14

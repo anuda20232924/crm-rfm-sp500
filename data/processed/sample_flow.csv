@@ -1,0 +1,9 @@
+stage,shares
+Shares in the Wikipedia S&P 500 list,503
+Excluded: no price data returned,5
+Excluded: short history,10
+Excluded: volume errors (zero-volume days),2
+Excluded: other data errors,0
+Included after validation,486
+Excluded from RFM: no high-volume event (R missing),0
+Common valid share set (used for all clustering),486
